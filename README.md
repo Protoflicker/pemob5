@@ -17,13 +17,20 @@
 
 ## Screenshots & Demo
 
-* **Tab Notes & FAB**: ![Screenshot Aplikasi](1.jpg)
-* **Note Detail**: ![Screenshot Aplikasi](2.jpg)
-* **Add Note**: ![Screenshot Aplikasi](add.jpg)
-* **Edit Note**: ![Screenshot Aplikasi](edit.jpg)
-* **Tab Profile**: ![Screenshot Aplikasi](profiel.jpg)
-* **Navigation Drawer**: ![Screenshot Aplikasi](navigation.jpg)
+* **Tab Notes & FAB**: 
+![Screenshot Aplikasi](1.jpg)
+* **Note Detail**: 
+![Screenshot Aplikasi](2.jpg)
+* **Add Note**: 
+![Screenshot Aplikasi](add.jpg)
+* **Edit Note**: 
+![Screenshot Aplikasi](edit.jpg)
+* **Tab Profile**: 
+![Screenshot Aplikasi](profiel.jpg)
+* **Navigation Drawer**: 
+![Screenshot Aplikasi](navigation.jpg)
 
-**Video Demonstrasi:**: link mp4
+**Video Demonstrasi:**: 
+<video src="video.mp4" controls="controls" width="100%"></video>
 
 ---
