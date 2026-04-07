@@ -45,4 +45,5 @@
 
 ## Video Demonstrasi
 
-<video src="https://github.com/Protoflicker/pemob5/raw/main/video.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/bd76f377-c8f5-4839-8f36-537c98400e3d
+
