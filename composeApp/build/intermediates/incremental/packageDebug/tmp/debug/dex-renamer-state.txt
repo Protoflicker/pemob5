@@ -1,4 +1,4 @@
-#Thu Mar 12 22:58:33 WIB 2026
+#Tue Apr 07 20:29:15 WIB 2026
 base.0=C\:\\Users\\User\\Documents\\appandroid\\prak\\composeApp\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\User\\Documents\\appandroid\\prak\\composeApp\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\User\\Documents\\appandroid\\prak\\composeApp\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex

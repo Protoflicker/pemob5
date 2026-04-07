@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myfirstkmpapp.composeApp-mergeDebugResources-42:/values-uz/values-uz.xml",
+            "outputFile": "com.example.myfirstkmpapp.composeApp-mergeDebugResources-47:/values-uz/values-uz.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\8.14.3\\transforms\\015d5f6db8e2371a28c4008ea5242e0e\\transformed\\foundation\\res\\values-uz\\values-uz.xml",

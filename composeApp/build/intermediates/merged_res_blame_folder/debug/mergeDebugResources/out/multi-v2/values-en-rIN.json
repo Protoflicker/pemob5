@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myfirstkmpapp.composeApp-mergeDebugResources-42:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.example.myfirstkmpapp.composeApp-mergeDebugResources-47:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\8.14.3\\transforms\\2785d098fd224e6df050e36d1bf65862\\transformed\\material3\\res\\values-en-rIN\\values-en-rIN.xml",

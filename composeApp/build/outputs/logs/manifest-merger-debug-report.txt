@@ -6,6 +6,11 @@ INJECTED from C:\Users\User\Documents\appandroid\prak\composeApp\src\androidMain
 INJECTED from C:\Users\User\Documents\appandroid\prak\composeApp\src\androidMain\AndroidManifest.xml:2:1-22:12
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.10.0] C:\Users\User\.gradle\caches\8.14.3\transforms\1ee9ac2530396872a98dcb5712418557\transformed\library-release\AndroidManifest.xml:2:1-16:12
 MERGED from [io.github.onseok:peekaboo-image-picker-android:0.5.2] C:\Users\User\.gradle\caches\8.14.3\transforms\e15c17c68889302aaa79d950abaa80fa\transformed\peekaboo-image-picker-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\37801958d1e2b220bc8e76349d22b82d\transformed\navigation-common-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\c66c0745db54efbeec3e28e70f997dfd\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\e3875fc5de833b469e0c53806bf830bb\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\defa709223f62d8b89287fc392f06d7d\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\e5dd816c9400fdbf410c25ac8a031d69\transformed\navigation-compose-2.7.7\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha08] C:\Users\User\.gradle\caches\8.14.3\transforms\2785d098fd224e6df050e36d1bf65862\transformed\material3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material-android:1.6.4] C:\Users\User\.gradle\caches\8.14.3\transforms\576bf4b86eb3a2558cb91d80a98ea000\transformed\material-release\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.9.4] C:\Users\User\.gradle\caches\8.14.3\transforms\c8ea2415ec08bb7f705e0bf28f53c7cd\transformed\material-ripple\AndroidManifest.xml:2:1-7:12
@@ -143,6 +148,16 @@ MERGED from [org.jetbrains.compose.components:components-resources-android:1.10.
 MERGED from [org.jetbrains.compose.components:components-resources-android:1.10.0] C:\Users\User\.gradle\caches\8.14.3\transforms\1ee9ac2530396872a98dcb5712418557\transformed\library-release\AndroidManifest.xml:5:5-44
 MERGED from [io.github.onseok:peekaboo-image-picker-android:0.5.2] C:\Users\User\.gradle\caches\8.14.3\transforms\e15c17c68889302aaa79d950abaa80fa\transformed\peekaboo-image-picker-release\AndroidManifest.xml:5:5-44
 MERGED from [io.github.onseok:peekaboo-image-picker-android:0.5.2] C:\Users\User\.gradle\caches\8.14.3\transforms\e15c17c68889302aaa79d950abaa80fa\transformed\peekaboo-image-picker-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\37801958d1e2b220bc8e76349d22b82d\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\37801958d1e2b220bc8e76349d22b82d\transformed\navigation-common-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\c66c0745db54efbeec3e28e70f997dfd\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\c66c0745db54efbeec3e28e70f997dfd\transformed\navigation-runtime-2.7.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\e3875fc5de833b469e0c53806bf830bb\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\e3875fc5de833b469e0c53806bf830bb\transformed\navigation-common-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\defa709223f62d8b89287fc392f06d7d\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\defa709223f62d8b89287fc392f06d7d\transformed\navigation-runtime-ktx-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\e5dd816c9400fdbf410c25ac8a031d69\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] C:\Users\User\.gradle\caches\8.14.3\transforms\e5dd816c9400fdbf410c25ac8a031d69\transformed\navigation-compose-2.7.7\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha08] C:\Users\User\.gradle\caches\8.14.3\transforms\2785d098fd224e6df050e36d1bf65862\transformed\material3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material3:material3-android:1.5.0-alpha08] C:\Users\User\.gradle\caches\8.14.3\transforms\2785d098fd224e6df050e36d1bf65862\transformed\material3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material:material-android:1.6.4] C:\Users\User\.gradle\caches\8.14.3\transforms\576bf4b86eb3a2558cb91d80a98ea000\transformed\material-release\AndroidManifest.xml:5:5-44
